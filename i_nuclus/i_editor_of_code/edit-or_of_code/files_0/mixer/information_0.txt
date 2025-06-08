@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+
+hello , i am Debouci Billal . i have this invention of a mixer .
+
+it work for me . i have linux ubuntu 24.04.2 LTS as operating system . and with a language c . that mean gcc is with me 
+
+and this is my 10 ==> (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) so than (10)
+
+and in arcitecture of 64 bit
+
+
+
+this mixer combine aproximatly or at least a lot of possibilities .
+
+
+
+I believe this will help someone somewhere .
+
+
+
+
+thank you .
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
