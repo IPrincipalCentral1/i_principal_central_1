@@ -38,5 +38,17 @@
             my work generaly start a terminal or cmd and run the operation so do not shut down the terminal when you see it
             
             
+        
+        
+            i have a mixer right here that mix a lot of possibilities witch have the name of Economic_Partner_official_mixer
             
+            
+            it is on a file with a name : Economic_Partner_official_mixer.c
+            
+            also : Economic_Partner_official_mixer_8.c
+        
+        
+        
+        
+        
 
