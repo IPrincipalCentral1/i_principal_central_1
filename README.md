@@ -20,6 +20,8 @@
             my full name is Billal Debouci . and i am here .
             
             
+            inside my editor of code :
+            
             if you want to print money you should click the button 'download from github' and 
             
             chose 'for money' and after that you should click the button 'update' . all that from the menu 'File'
@@ -32,5 +34,4 @@
             
             
             
-
 
