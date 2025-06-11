@@ -10,6 +10,10 @@
 
         
         
+        
+        
+        
+        
             hello . i am i . i am principal central . i can help .
             
             
@@ -113,99 +117,108 @@
             
             
             
+            inside my mixer you can see more detail-s if you download the repozitory from this place .
+            
+            the name of the file is : Economic_Partner_official_mixer_8.c
+            
+            
+            inside my mixer there is :
             
                         
-            
-            
-            /*
-            
-            
-            
-            
-            
-            
-            this is a good example of how to use my mixer
-            
-            
-            
-            
-            
-            Suppose we want to mix, for example: (water, stone, air).
-            
-            We must arrange these objects in sequential order. For example:
-            
-            
-            
-            {
-            
-            Water: 0
-            
-            Stone: 1
-            
-            Air: 2
-            
-            }
-            
-            
-            Then we create a range from 0 to 2 .
-            
-            
-            Then we place only the number 2 in position ___postion_of_max_range___ .
-            
-            
-            
-            
-            
-            
-            Suppose we want to mix, for example :  a range in between (0, 1).
-            
-            We must arrange these objects in sequential order. For example:
-            
-            
-            
-            {
-            
-            0.0: 0
-            
-            0.1: 1
-            
-            0.2: 2
-            
-            0.3: 3
-            
-            0.4: 4
-            
-            0.5: 5
-            
-            0.6: 6
-            
-            0.7: 7
-            
-            0.8: 8
-            
-            0.9: 9
-            
-            1.0: 10
-            
-            
-            }
-            
-            
-            Then we create a range from 0 to 10 .
-            
-            
-            Then we place only the number 10 in position ___postion_of_max_range___ .
-            
-            
-            
-            
-            */
-            
-            
-            
-            
-            
-            
+                
+                
+                
+                
+                /*
+                
+                
+                
+                
+                
+                
+                this is a good example of how to use my mixer
+                
+                
+                
+                
+                
+                Suppose we want to mix, for example: (water, stone, air).
+                
+                We must arrange these objects in sequential order. For example:
+                
+                
+                
+                {
+                
+                Water: 0
+                
+                Stone: 1
+                
+                Air: 2
+                
+                }
+                
+                
+                Then we create a range from 0 to 2 .
+                
+                
+                Then we place only the number 2 in position ___postion_of_max_range___ .
+                
+                
+                
+                
+                
+                
+                Suppose we want to mix, for example :  a range in between (0, 1).
+                
+                We must arrange these objects in sequential order. For example:
+                
+                
+                
+                {
+                
+                0.0: 0
+                
+                0.1: 1
+                
+                0.2: 2
+                
+                0.3: 3
+                
+                0.4: 4
+                
+                0.5: 5
+                
+                0.6: 6
+                
+                0.7: 7
+                
+                0.8: 8
+                
+                0.9: 9
+                
+                1.0: 10
+                
+                
+                }
+                
+                
+                Then we create a range from 0 to 10 .
+                
+                
+                Then we place only the number 10 in position ___postion_of_max_range___ .
+                
+                
+                
+                
+                */
+                
+                
+                
+                
+                
+                
+                
             
             
             
