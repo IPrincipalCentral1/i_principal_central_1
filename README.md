@@ -9,6 +9,7 @@
 
 
         
+        
             hello . i am i . i am principal central . i can help .
             
             
@@ -54,6 +55,73 @@
             you can read the file inside this repozitory that have the name : https://github.com/IPrincipalCentral1/i_principal_central_1/blob/main/i_nuclus/i_editor_of_code/edit-or_of_code/files_0/mixer/information_0.txt
 
 
+            
+                        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            /*
+            
+            
+            
+            
+            hello , i am Debouci Billal . i have this invention of a mixer .
+            
+            it work for me . i have linux ubuntu 24.04.2 LTS as operating system . and with a language c . that mean gcc is with me 
+            
+            and this is my 10 ==> (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) so than (10)
+            
+            and in arcitecture of 64 bit
+            
+            my version of python is 3.12.3
+            
+            
+            
+            this mixer combine aproximatly all or at least a lot of possibilities .
+            
+            
+            
+            I believe this will help someone somewhere .
+            
+            
+            
+            
+            thank you .
+            
+            
+            
+            
+            
+            
+            
+            */
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             
         
         
