@@ -43,6 +43,8 @@
         
             i have a mixer right here that mix a lot of possibilities witch have the name of Economic_Partner_official_mixer
             
+            this repozitory contain a mixer right here that mix a lot of possibilities witch have the name of Economic_Partner_official_mixer
+            
             
             it is on a file with a name : Economic_Partner_official_mixer.c
             
@@ -102,6 +104,7 @@
             
             
             */
+            
             
             
             
