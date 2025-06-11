@@ -49,6 +49,13 @@
         
         
         
+            you can find this miwer inside my repozitory . so you can use it to make a lot of mix between element for example 
+                
+            you can read the file inside this repozitory that have the name : https://github.com/IPrincipalCentral1/i_principal_central_1/blob/main/i_nuclus/i_editor_of_code/edit-or_of_code/files_0/mixer/information_0.txt
+
+
+            
+        
         
         
 
