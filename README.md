@@ -14,6 +14,7 @@
         
         
         
+        
             hello . i am i . i am principal central . i can help .
             
             
@@ -217,6 +218,32 @@
                 
                 
                 
+                
+                
+                        
+            '''
+            
+            
+                If you are in a certain situation and you want to transfer money from one place to another. 
+                
+                Then you should use this program. First you should send the money (files) from the sender to 
+                
+                the receiver. Then delete those files from the sender so that the files are now present in the 
+                
+                receiver. Now replace ___folder_of_files_that_have_been_received_into_it___ to the link of folder of files that have been received into it from sender .
+            
+                and replace ___folder_of_organize_the_money_in_it___ to folder of organize my money in it .
+                
+                so than run this program it will save you from errors .
+                
+            
+            
+            
+            
+            '''
+            
+            
+            
                 
                 
             
