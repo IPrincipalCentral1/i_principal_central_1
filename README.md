@@ -243,9 +243,42 @@
             '''
             
             
+                        
             
-                
-                
+            '''
+            
+            
+            
+            
+            If you want to withdraw change from money, you can use this program. 
+            
+            You have to choose the column that contains the unit you want to withdraw change from :
+            
+            
+            (___number_of_library___ == 0) or (___number_of_library___ == 1)
+            
+            
+            and than replace ___number_of_library___ with the number of library that you chose .
+            
+            and than replace ___folder_that_you_want_to_extract_cash_from_it___ with folder that you want to extract cash from it .
+            
+            and than replace ___folder_that_you_want_to_extract_cash_into_it___ with folder that you want to extract cash into it .
+            
+            and replace ___the_unity_that_you_want_to_extract_cash_from_it___ with the unity that you want to extract cash from it .
+            
+            and replace ___the_quantity_that_you_want_to_extract_from_the_total_amount___ with the quantity that you want to extract from the total amount .
+            
+            
+            you can extract 1 from 10 . but you can not extract 10 from 1 .
+            
+            because : ( 10 > 1 )
+            
+            
+            
+            
+            
+            
+            '''
             
             
             
