@@ -15,6 +15,8 @@
         
         
         
+        
+        
             hello . i am i . i am principal central . i can help .
             
             
@@ -283,6 +285,12 @@
             
             
             
+            
+            A backup copy of this folder should be placed in a specific location so that it will be useful 
+            
+            in case anything is lost. You can then retrieve an original copy.
+        
+        
             
             
             
