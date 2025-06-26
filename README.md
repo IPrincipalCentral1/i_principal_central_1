@@ -10,9 +10,8 @@
 
         
         
-        
-        
-        
+            
+            
         
         
         
@@ -69,6 +68,37 @@
             
                         
             
+            
+            
+            
+            
+            
+            
+            /*
+            
+                
+                أهلا . لقد إكتشفت طريقة تحويل بين العملات تؤدي إلى ضعف ما لديك . مثلا من 5 EUR إلى أكثر من 10 EUR . هاذا يعني إلى 2 مرة .
+                
+                و الخطوات هي بإختصار التحويل من عملة إلى اخرى مراة عدة . سوءدي هاذا في الأخير إلى إرتفاع المبلغ .
+                
+                
+                
+                
+                i am i .
+
+                Hello. I discovered a way to exchange currencies that results in doubling what you have. For example, converting 
+                
+                5 EUR into more than 10 EUR — that means twice the amount.
+
+                The steps, in short, involve converting from one currency to another multiple times. 
+                
+                This eventually leads to an increase in the amount.
+                
+                
+            
+            
+            
+            */
             
             
             
@@ -451,9 +481,9 @@
             
             
             
-            
-            
-            
+        
+        
+        
             
             
         
