@@ -94,7 +94,7 @@
                 
                 This eventually leads to an increase in the amount.
                 
-                
+                By using global money transfers that are available for free, I discovered this using my own mixer.
             
             
             
