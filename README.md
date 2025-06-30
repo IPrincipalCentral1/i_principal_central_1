@@ -85,6 +85,8 @@
                 i am i .
 
                 Hello. I discovered a way to exchange currencies that results in doubling what you have. For example, converting 
+
+
                 
                 5 EUR into more than 10 EUR — that means twice the amount.
 
@@ -101,9 +103,8 @@
                                 
                 
                 
-                
-                i principal central discovered a way to multiply the money by transformation Between unity of money .
-                
+
+                i principal central discovered a way to multiply the money by transformation Between unity of money ( currency conversion ) .
                 
                 for example :
                     
