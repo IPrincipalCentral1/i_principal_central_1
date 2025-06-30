@@ -81,7 +81,7 @@
                 
                 و الخطوات هي بإختصار التحويل من عملة إلى اخرى مراة عدة . سوءدي هاذا في الأخير إلى إرتفاع المبلغ .
                 
-                
+                بإستعمال التحويلات العالمية للمال . المتوفرة مجانيا . لقد إكتشفت هاذا بإستعمال ال mixer الخاص بي .
                 
                 
                 i am i .
@@ -94,7 +94,83 @@
                 
                 This eventually leads to an increase in the amount.
                 
+                
                 By using global money transfers that are available for free, I discovered this using my own mixer.
+            
+            
+            
+            
+                                
+                
+                
+                
+                i principal central discovered a way to multiply the money by transformation .
+                
+                
+                for example :
+                    
+                    in paypal start with 10.0 EUR : 
+                    
+                        max_0 = [24.4859, ['EUR', 'JPY', 'CHF', 'JPY', 'EUR']] .
+                    
+                    
+                    it mean from the amount that you where having wich is 10.0 EUR . you will have 24.4859 EUR after transforming like that :
+                
+                        and all what are from 'EUR' to 'JPY'
+                        
+                        and all what are from 'JPY' to 'CHF'
+                        
+                        and all what are from 'CHF' to 'JPY'
+                        
+                        and all what are from 'JPY' to 'EUR'
+                
+                        
+                    at the end you will have 24.4859 EUR .
+                    
+                    and you can repeat all the process but this time with 24.4859 EUR .
+                    
+                    and repeat again . and repeat again . and repeat again .
+                    
+                    until you have money . until you are satisfied .
+                    
+                    
+                    those are ways to get there also :
+                    
+                    
+                    
+                    in paypal start with 10.0 USD :    
+                    
+                        max_0 = [21.073400000000003, ['USD', 'JPY', 'CHF', 'JPY', 'USD']] .
+                    
+                    
+                    in paypal start with 10.0 RUB :
+                    
+                        max_0 = [20.4825, ['RUB', 'JPY', 'CHF', 'JPY', 'EUR', 'RUB']] .
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    in wise start with 10.0 EUR :
+                    
+                        max_0 = [24.4859, ['EUR', 'JPY', 'CHF', 'JPY', 'EUR']] .
+                    
+                    
+                    in wise start with 10.0 USD :
+                    
+                        max_0 = [21.073400000000003, ['USD', 'JPY', 'CHF', 'JPY', 'USD']] .
+                    
+                    
+                    
+                    in wise start with 10.0 RUB :
+                    
+                        max_0 = [16.5813, ['RUB', 'CAD', 'JPY', 'CHF', 'RUB']] .
+                    
+                    
+                
+            
             
             
             
@@ -327,8 +403,8 @@
         
         
                         
-            Welcome to the i_principal_central wiki!
-            
+            Welcome to the i_principal_central
+                        
             
             i am i
             
@@ -481,6 +557,7 @@
             
             
             
+        
         
         
         
