@@ -16,8 +16,6 @@
         
         
         
-        
-        
             hello . i am i . i am principal central . i can help .
             
             
@@ -104,7 +102,7 @@
                 
                 
                 
-                i principal central discovered a way to multiply the money by transformation .
+                i principal central discovered a way to multiply the money by transformation Between unity of money .
                 
                 
                 for example :
@@ -557,7 +555,6 @@
             
             
             
-        
         
         
         
