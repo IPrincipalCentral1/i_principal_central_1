@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+
+
+
+eccp
+{
+
+
+    name_of_unity : DZD
+    
+        amount : 3_891.95 
+    
+
+}
+
+
+
+societe_general
+{
+
+
+    visa_international
+    {
+    
+        name_of_unity : EUR
+        
+            amount : 50.00
+    
+    
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
