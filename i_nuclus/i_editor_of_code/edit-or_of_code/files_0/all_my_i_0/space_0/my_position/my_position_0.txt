@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
+{
+
+
+    sity : ( Ain El Hadjel ) , ( عين الحجل )
+
+    wilaya : ( Msila ) , ( مسيلة )
+    
+    country : ( Algeria ) , ( الجزائر )
+    
+    
+    detail
+    {
+        
+        بجانب المسجد الكبير على الطريق الرئيسية الكبيرة .
+        
+        
+    }
+    
+    
+
+    my place now : (35.674477 , 3.883286)
+    
+    
+    
+    remarck_0
+    {
+        
+        i will go to another place tomorrow . ( 30 jully 2025 )
+        
+        i will go to (Algeria, Ouargla, Ouargla) . 
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
