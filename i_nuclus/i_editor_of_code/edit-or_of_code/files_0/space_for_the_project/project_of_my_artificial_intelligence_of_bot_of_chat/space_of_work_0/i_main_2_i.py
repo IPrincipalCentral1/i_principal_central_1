@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def i_transforme_0_i(hex_value):
+    
+    
+    i_char_0_i = chr(int(hex_value, 16))
+    
+    return i_char_0_i
+    
+    
+
+
+
+
+
+
+
+
+
+
+hex_value = "004A"
+
+char = chr(int(hex_value, 16))
+
+print(char)   # J
+
+
+
+
+
+i_str_result_0_i = ""
+
+
+
+i_string_0_i = "004A,LATIN CAPITAL LETTER J,Lu,0,L,,,,,N,,,,006A,"
+
+
+
+
+i_v_0_i = i_string_0_i.split(",")
+
+
+i_char_0_i = i_transforme_0_i(hex_value=i_v_0_i[0])
+
+
+i_str_result_0_i += f"\n{i_char_0_i} : "
+
+
+i_counter_0_i = 0
+
+while (i_counter_0_i < len(i_v_0_i)):
+    
+    
+    if (i_v_0_i[i_counter_0_i] != ""):
+        
+        i_str_result_0_i += f" {i_v_0_i[i_counter_0_i]} , "
+        
+        
+    
+    
+    i_counter_0_i += 1
+    
+    
+    
+
+
+print(f"i_str_result_0_i = \"{i_str_result_0_i}\" ")
+
+
+
