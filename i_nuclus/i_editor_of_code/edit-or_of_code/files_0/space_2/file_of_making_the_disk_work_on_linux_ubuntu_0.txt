@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+
+
+'''
+
+this file is for recovery of my disk '/dev/nvme0n1p1'
+
+'''
+
+list_of_command :
+    
+    
+    
+    lsblk
+    
+    sudo mkdir -p /mnt/mydisk
+    
+    sudo mount /dev/nvme0n1p1 /mnt/mydisk
+    
+    
+    
+    
+    
+    
+    
+    
+    sudo apt update
+    
+    sudo apt install build-essential
+
+
+    
+'''
+
+this is for VBox to work . ( with intel )
+
+'''
+    
+list_of_command :h
+    
+    
+    sudo rmmod kvm_intel
+    
+    sudo rmmod kvm
+    
+    echo -e "blacklist kvm_intel\nblacklist kvm" | sudo tee /etc/modprobe.d/blacklist-kvm.conf
+    
+    
+    
+     
+    
+    
+
+
+
+
+
+
+
+
+
+
+
