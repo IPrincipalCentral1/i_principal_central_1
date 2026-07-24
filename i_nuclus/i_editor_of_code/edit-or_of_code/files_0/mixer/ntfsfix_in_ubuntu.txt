@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+/*
+
+in linux ubuntu :
+
+
+These are instructions to solve the problem of NTFS
+
+you should install this ntfsfix
+
+
+
+
+*/
+
+
+sudo fdisk -l
+
+sudo apt-get install nfs-common
+
+sudo apt-get install cifs-utils
+
+
+/*
+
+use it like that
+
+*/
+
+sudo ntfsfix -d /dev/....
+
+
+
+
