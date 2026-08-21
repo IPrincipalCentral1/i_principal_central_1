@@ -1,0 +1,984 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
+{
+
+
+
+
+    readme 
+    {
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        hello . i am i . i am principal central . i can help .
+        
+        
+        i have here an editor of code for free . his name is editor_of_code.py
+        
+        
+        it is amazing . I am the sole developer of this editor.
+        
+        my full name is Billal Debouci . and i am here .
+        
+        
+        my main position is :
+        
+            Algeria , Ouargla, Ouargla .
+            
+            150 LOGTS , near ( hopital Mohamed Boudiaf : french ).
+            
+            code postale : 30_001
+            
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        inside my editor of code :
+        
+        if you want to print money you should click the button 'download from github' and 
+        
+        chose 'for money' and after that you should click the button 'update' . all that from the menu_bar 'File'
+        
+        
+        if you want to update your edition you should click 'download from github' and click 'update' .
+        
+        
+        of course all of that after the end of the download .
+        
+        
+        
+        
+        my work generaly start a terminal or cmd and run the operation so do not shut down the terminal when you see it
+        
+        
+    
+    
+        i have a mixer right here that mix a lot of possibilities witch have the name of Economic_Partner_official_mixer
+        
+        this repozitory contain a mixer right here that mix a lot of possibilities witch have the name of Economic_Partner_official_mixer
+        
+        
+        it is on a file with a name : Economic_Partner_official_mixer.c
+        
+        also : Economic_Partner_official_mixer_8.c
+    
+    
+    
+        you can find this miwer inside my repozitory . so you can use it to make a lot of mix between element for example 
+            
+        you can read the file inside this repozitory that have the name : https://github.com/IPrincipalCentral1/i_principal_central_1/blob/main/i_nuclus/i_editor_of_code/edit-or_of_code/files_0/mixer/information_0.txt
+
+
+        
+                    
+        
+        
+        
+        
+        
+        
+        
+        /*
+        
+            
+            أهلا . لقد إكتشفت طريقة تحويل بين العملات تؤدي إلى ضعف ما لديك . مثلا من 5 EUR إلى أكثر من 10 EUR . هاذا يعني إلى 2 مرة .
+            
+            و الخطوات هي بإختصار التحويل من عملة إلى اخرى مراة عدة . سوءدي هاذا في الأخير إلى إرتفاع المبلغ .
+            
+            بإستعمال التحويلات العالمية للمال . المتوفرة مجانيا . لقد إكتشفت هاذا بإستعمال ال mixer الخاص بي .
+            
+            
+            
+            i am i .
+
+            Hello. I discovered a way to exchange currencies that results in doubling what you have. For example, converting 
+            
+            5 EUR into more than 10 EUR — that means twice the amount.
+
+            The steps, in short, involve converting from one currency to another multiple times. 
+            
+            This eventually leads to an increase in the amount.
+            
+            
+            By using global money transfers that are available for free, I discovered this using my own mixer.
+        
+        
+        
+        
+                            
+            
+            
+            
+            i principal central discovered a way to multiply the money by transformation Between unity of money ( currency conversion ) .
+            
+            
+            for example :
+                
+                
+                with just 2 numbers after the floating point :
+                
+                
+                in paypal start with 10.00 EUR : 
+                
+                    max_0 = [24.48, ['EUR', 'JPY', 'CHF', 'JPY', 'EUR']] .
+                
+                
+                it mean from the amount that you where having wich is 10.00 'EUR' . you will have 24.48 'EUR' after transforming like that :
+            
+                    and all what are from 'EUR' to 'JPY'
+                    
+                    and all what are from 'JPY' to 'CHF'
+                    
+                    and all what are from 'CHF' to 'JPY'
+                    
+                    and all what are from 'JPY' to 'EUR'
+            
+                    
+                at the end you will have 24.48 EUR .
+                
+                and you can repeat all the process but this time with 24.48 EUR .
+                
+                and repeat again . and repeat again . and repeat again .
+                
+                until you have money . until you are satisfied .
+                
+                
+                
+                like for example :
+                    
+                    
+                    
+                    
+                    
+                    
+                    start with 10.00 USD :
+                    
+                        max_0 = [23.44, ['USD', 'VND', 'DJF', 'USD']] .
+                    
+                    
+                    
+                    1 'USD' == 26414,98 'VND'
+                    
+                    1 'VND' == 0.01 'DJF' <<< 0,0067 'DJF'
+                    
+                    1 'DJF' == 0,01 'USD' <<< 0,0056 'USD'
+                    
+                    
+                    because the bank do there calculation just 2 numbers after the floating point .
+                    
+                    
+                    
+                
+                
+                
+                those are ways to get there also :
+                
+                
+                
+                in paypal start with 10.00 USD : 
+                
+                    max_0 = [21.07, ['USD', 'JPY', 'CHF', 'JPY', 'USD']] .
+                
+                
+                in paypal start with 10.00 RUB :
+                
+                    max_0 = [20.48, ['RUB', 'JPY', 'CHF', 'JPY', 'EUR', 'RUB']] .
+                
+                
+                
+                in paypal start with 10.00 JPY :
+                
+                    max_0 = [25.87, ['JPY', 'CHF', 'JPY', 'CHF', 'JPY']] .
+                
+                
+                in paypal start with 10.00 CHF :
+                
+                    max_0 = [26.15, ['CHF', 'JPY', 'CHF', 'JPY', 'CHF']] .
+                
+                
+                start with 10.00 DZD :
+                
+                    max_0 = [23.81, ['DZD', 'GBP', 'DZD', 'GBP', 'DZD']] .
+                
+                
+                start with 10.00 USD :
+                
+                    max_0 = [23.44, ['USD', 'VND', 'DJF', 'USD']] .
+                
+                
+                
+                
+                
+                start with 10.00 SAR :
+                
+                    max_0 = [454.70, ['SAR', 'ETB', 'TJS', 'SAR']] .
+                
+                
+                
+                
+                
+                start with 10.00 TWD :
+                
+                    max_0 = [461.99, ['TWD', 'ETB', 'TJS', 'TWD']] .
+                
+                
+                
+                
+                
+                start with 10.00 USD :
+                
+                    max_0 = [438.54, ['USD', 'ETB', 'TJS', 'USD']] .
+    
+    
+                
+                
+                start with 10.00 EUR :
+                
+                    max_0 = [452.76, ['EUR', 'ETB', 'TJS', 'TWD', 'EUR']] .
+                
+                
+                
+                
+                
+                start with 10.00 CNY : 
+                                
+                    max_0 = [454.13, ['CNY', 'ETB', 'TJS', 'CNY']] .
+                
+                
+                
+                
+                start with 10.00 INR : 
+                                
+                    max_0 = [456.74, ['INR', 'ETB', 'TJS', 'INR']] .
+                
+                
+                
+                start with 10.00 ZAR : 
+                                
+                    max_0 = [457.46, ['ZAR', 'ETB', 'TJS', 'ZAR']] .
+                
+                
+                
+                start with 10.00 LYD : 
+                
+                    max_0 = [457.79, ['LYD', 'IRR', 'AOA', 'LYD']] .
+                
+                
+                
+                start with 10.00 ILS : 
+                
+                    max_0 = [450.37, ['ILS', 'ETB', 'TJS', 'ILS']] .
+
+
+
+
+                start with 10.00 MAD : 
+                
+                    max_0 = [455.89, ['MAD', 'ETB', 'TJS', 'MAD']] .
+                
+                
+                
+                
+                start with 10.00 TND : 
+                                
+                    max_0 = [458.80, ['TND', 'ETB', 'TJS', 'TND']] .
+                
+                
+                
+                start with 10.00 CHF : 
+                
+                    max_0 = [408.50, ['CHF', 'ETB', 'TJS', 'CHF']] .
+
+
+                
+                
+                start with 10.00 JPY : 
+                
+                    max_0 = [428.18, ['JPY', 'ETB', 'TJS', 'JPY']] .
+                
+                
+                
+                start with 10.00 RUB : 
+                
+                    max_0 = [455.01, ['RUB', 'ETB', 'TJS', 'RUB']] .
+                
+                
+                
+                
+                
+                start with 10.00 AED : 
+                
+                    max_0 = [452.72, ['AED', 'ETB', 'TJS', 'AED']] .
+                    
+                
+                    
+                start with 10.00 YER : 
+                
+                    max_0 = [464.40, ['YER', 'ETB', 'TJS', 'YER']] .
+                
+                
+                
+                
+                start with 10.00 EGP : 
+                
+                    max_0 = [25.63, ['EGP', 'KWD', 'GNF', 'EGP']] .
+
+
+
+                start with 10.00 TRY : 
+
+                    max_0 = [24.53, ['TRY', 'VND', 'JPY', 'EUR', 'TRY']] .
+
+
+
+                start with 10.00 AFN : 
+                
+                    max_0 = [24.23, ['AFN', 'VND', 'JPY', 'EUR', 'AFN']] .
+
+
+
+
+                start with 10.00 IRR : 
+                
+                    max_0 = [23.85, ['IRR', 'YER', 'LAK', 'DZD', 'IRR']] .
+
+
+
+
+                start with 10.00 KRW : 
+
+                    max_0 = [25.18, ['KRW', 'GTQ', 'GNF', 'EGP', 'KRW']] .
+
+
+
+
+                start with 10.00 CUP : 
+                
+                    max_0 = [24.52, ['CUP', 'VND', 'JPY', 'EUR', 'CUP']] .
+
+
+
+                start with 10.00 MXN : 
+
+                    max_0 = [24.51, ['MXN', 'VND', 'JPY', 'EUR', 'MXN']] .
+
+
+
+
+                start with 10.00 CAD : 
+                
+                    max_0 = [28.07, ['CAD', 'IRR', 'YER', 'CAD']] .
+
+
+
+                start with 10.00 ARS : 
+
+                    max_0 = [25.08, ['ARS', 'CNY', 'XOF', 'BYN', 'ARS']] .
+
+
+
+
+
+
+
+                start with 10.00 BRL : 
+                
+                    max_0 = [25.24, ['BRL', 'IRR', 'YER', 'CAD', 'BRL']] .
+
+
+
+
+                start with 10.00 MRU : 
+
+                    max_0 = [25.22, ['MRU', 'IRR', 'YER', 'CAD', 'MRU']] .
+
+
+
+
+
+                start with 10.00 LBP : 
+
+                    max_0 = [21.55, ['LBP', 'CRC', 'LBP', 'XOF', 'LBP']] .
+
+
+
+                start with 10.00 KWD : 
+
+                    max_0 = [25.63, ['KWD', 'GNF', 'EGP', 'KWD']] .
+
+
+
+
+
+                start with 10.00 IQD : 
+                
+                    max_0 = [23.21, ['IQD', 'GTQ', 'CLP', 'BRL', 'IQD']] .
+                
+                
+                
+                
+                
+                start with 10.00 SYP : 
+                
+                    max_0 = [22.83, ['SYP', 'GMD', 'LBP', 'XOF', 'SYP']] .
+                
+                
+                
+                
+                start with 10.00 XOF : 
+                
+                    max_0 = [25.99, ['XOF', 'BYN', 'SDG', 'LBP', 'XOF']] .
+                
+                
+                
+                
+                start with 10.00 NGN : 
+                
+                    max_0 = [24.67, ['NGN', 'MAD', 'LKR', 'BAM', 'NGN']] .
+                
+                
+                
+                
+                start with 10.00 MGA : 
+                
+                    max_0 = [24.22, ['MGA', 'HNL', 'LBP', 'CRC', 'MGA']] .
+
+
+
+
+                start with 10.00 AUD : 
+
+                    max_0 = [25.17, ['AUD', 'IRR', 'YER', 'AUD']] .
+
+
+
+                start with 10.00 IDR : 
+
+                    max_0 = [24.51, ['IDR', 'CVE', 'LBP', 'CRC', 'IDR']] .
+
+
+
+
+
+
+
+
+
+                start with 10.00 KZT : 
+
+                    max_0 = [27.83, ['KZT', 'TND', 'LBP', 'KZT']] .
+
+
+
+
+
+                start with 10.00 SDG : 
+
+                    max_0 = [28.30, ['SDG', 'CLP', 'LYD', 'LBP', 'SDG']] .
+
+
+
+
+                start with 10.00 SSP : 
+
+                    max_0 = [25.40, ['SSP', 'HNL', 'LKR', 'BAM', 'SSP']] .
+
+
+
+
+
+                start with 10.00 AOA : 
+
+                    max_0 = [25.25, ['AOA', 'LYD', 'LKR', 'BAM', 'AOA']] .
+
+
+
+
+
+                start with 10.00 BHD : 
+
+                    max_0 = [25.36, ['BHD', 'IRR', 'YER', 'CAD', 'BHD']] .
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                
+                in wise start with 10.00 EUR :
+                
+                    max_0 = [24.48, ['EUR', 'JPY', 'CHF', 'JPY', 'EUR']] .
+                
+                
+                in wise start with 10.00 USD :
+                
+                    max_0 = [21.07, ['USD', 'JPY', 'CHF', 'JPY', 'USD']] .
+                
+                
+                
+                in wise start with 10.00 RUB :
+                
+                    max_0 = [16.58, ['RUB', 'CAD', 'JPY', 'CHF', 'RUB']] .
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+            
+            at the moment i do not have any money in my account in paypal to test my invention .
+            
+            and this is my account in paypal :
+            
+                deboubil21@gmail.com
+                
+            
+            
+            
+            
+        
+        
+        
+        
+        */
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        /*
+        
+        
+        
+        
+        hello , i am Debouci Billal . i have this invention of a mixer .
+        
+        it work for me . i have linux ubuntu 24.04.2 LTS as operating system . and with a language c . that mean gcc is with me 
+        
+        and this is my 10 ==> (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) so than (10)
+        
+        and in arcitecture of 64 bit
+        
+        my version of python is 3.12.3
+        
+        
+        
+        this mixer combine aproximatly all or at least a lot of possibilities .
+        
+        
+        
+        I believe this will help someone somewhere .
+        
+        
+        
+        
+        thank you .
+        
+        
+        
+        
+        
+        
+        
+        */
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        inside my mixer you can see more detail-s if you download the repozitory from this place .
+        
+        the name of the file is : Economic_Partner_official_mixer_8.c
+        
+        
+        inside my mixer there is :
+        
+                    
+            
+            
+            
+            
+            /*
+            
+            
+            
+            
+            
+            
+            this is a good example of how to use my mixer
+            
+            
+            
+            
+            
+            Suppose we want to mix, for example: (water, stone, air).
+            
+            We must arrange these objects in sequential order. For example:
+            
+            
+            
+            {
+            
+            Water: 0
+            
+            Stone: 1
+            
+            Air: 2
+            
+            }
+            
+            
+            Then we create a range from 0 to 2 .
+            
+            
+            Then we place only the number 2 in position ___postion_of_max_range___ .
+            
+            
+            
+            
+            
+            
+            Suppose we want to mix, for example :  a range in between (0, 1).
+            
+            We must arrange these objects in sequential order. For example:
+            
+            
+            
+            {
+            
+            0.0: 0
+            
+            0.1: 1
+            
+            0.2: 2
+            
+            0.3: 3
+            
+            0.4: 4
+            
+            0.5: 5
+            
+            0.6: 6
+            
+            0.7: 7
+            
+            0.8: 8
+            
+            0.9: 9
+            
+            1.0: 10
+            
+            
+            }
+            
+            
+            Then we create a range from 0 to 10 .
+            
+            
+            Then we place only the number 10 in position ___postion_of_max_range___ .
+            
+            
+            
+            
+            */
+            
+            
+            
+            
+            
+            
+            
+                    
+        '''
+        
+        
+            If you are in a certain situation and you want to transfer money from one place to another. 
+            
+            Then you should use this program. First you should send the money (files) from the sender to 
+            
+            the receiver. Then delete those files from the sender so that the files are now present in the 
+            
+            receiver. Now replace ___folder_of_files_that_have_been_received_into_it___ to the link of folder of files that have been received into it from sender .
+        
+            and replace ___folder_of_organize_the_money_in_it___ to folder of organize my money in it .
+            
+            so than run this program it will save you from errors .
+            
+        
+        
+        
+        
+        '''
+        
+        
+                    
+        
+        '''
+        
+        
+        
+        
+        If you want to withdraw change from money, you can use this program. 
+        
+        You have to choose the column that contains the unit you want to withdraw change from :
+        
+        
+        (___number_of_library___ == 0) or (___number_of_library___ == 1)
+        
+        
+        and than replace ___number_of_library___ with the number of library that you chose .
+        
+        and than replace ___folder_that_you_want_to_extract_cash_from_it___ with folder that you want to extract cash from it .
+        
+        and than replace ___folder_that_you_want_to_extract_cash_into_it___ with folder that you want to extract cash into it .
+        
+        and replace ___the_unity_that_you_want_to_extract_cash_from_it___ with the unity that you want to extract cash from it .
+        
+        and replace ___the_quantity_that_you_want_to_extract_from_the_total_amount___ with the quantity that you want to extract from the total amount .
+        
+        
+        you can extract 1 from 10 . but you can not extract 10 from 1 .
+        
+        because : ( 10 > 1 )
+        
+        
+        
+        
+        
+        
+        '''
+        
+        
+        
+        
+        
+        A backup copy of this folder should be placed in a specific location so that it will be useful 
+        
+        in case anything is lost. You can then retrieve an original copy.
+    
+    
+    
+    
+    
+                    
+        Welcome to the i_principal_central
+                    
+        
+        i am i
+        
+        i can do thing
+        
+        in this library in the language with the name 'python' 
+        
+        can help 
+        
+        i wan help for printing money 
+        
+        i can help for printing new unity
+        
+        i can help transfer files with wifi 
+        
+        
+        i can mark the history of the your send and receive 
+        
+        
+        i can develope
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        hello i am principal central 
+        
+        
+        
+        i want to show you how to use the liberary in language of python 'i_principal_central'
+        
+        
+        and how to send file-s in wifi with that library and receive 
+        
+        
+        both device-s should have those 2 file-s : 'receiver' and 'sender'
+        
+        
+        
+        so the receiver should be run-ing first :
+        
+        and the folder of send in the sender should contain the file-s to send 
+        
+        
+        now you see the number that are in the receiver '192.168.43.207'
+        
+        
+        he should be in the program of sender 
+        
+        
+        right here
+        
+        
+        so than the send start 
+        
+        
+        after the connection between the wifi of the sender and the wifi of the receiver
+        
+        
+        
+        and let see
+        
+        
+        now let see the folder of receive in the receiver 
+        
+        
+        
+        
+        and the file of history will apare
+        
+        
+        i have-ed before do that that is why there is a lot of history 
+        
+        
+        and the history is with calculation 
+        
+        it mean 
+        
+        
+        
+        
+        {' 2025/05/06 18:40:07 ' : 
+        
+                'USD' : 400 ,     'DZD' : 4_000 ,    
+        
+        }
+        
+        
+        
+        i receive-ed '400 USD' and '4000 DZD'
+        
+        money
+        
+        
+        
+        
+        and some-thing :
+        
+        
+        my format of print-ing money is strict
+        
+        that is why i calculate with precision my money because it is i who do that 
+        
+        
+        
+        and now let send those file-s back :
+        
+        
+        i should copy the file-s from the folder of receive to the folder of send .
+        
+        you can pause the video and see with detail what you want .
+        
+        
+        now in order to do this operation the receiver in the other side should be run-ing first .
+        
+        
+        do you see the number that apare '10.192.233.96'
+        
+        
+        this number should be in the program of the sender .
+        
+        
+        right here 
+        
+        
+        you should copy it exactly and the 2 device-s should be connect-ed with wifi so than the operation can be .
+        
+        
+        
+        now execute the program of sender 
+        
+        
+        you will find that the receiver receive-ed the file-s 
+        
+        and this is tha operation with success ...........................................................................................
+        
+        
+        
+    
+    
+    
+    
+    
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
