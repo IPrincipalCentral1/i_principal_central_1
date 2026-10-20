@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+
+hello , i am Debouci Billal . i have this invention of a mixer .
+
+it work for me . i have linux ubuntu 24.04.2 LTS as operating system . and with a language c . that mean gcc is with me 
+
+and this is my 10 ==> (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) so than (10)
+
+and in arcitecture of 64 bit
+
+my version of python is 3.12.3
+
+i work also with ASCII code , and i work with UTF-8 code .
+
+
+
+I suggest that Linux Ubuntu is installed in this way :
+
+
+disk :
+
+    _ disk
+    |
+    |_ disk_0 {boot}
+    |
+    |_ disk_1 {/} (root) , format = ext4 , size = 250_000_000_000 Byte
+    |
+    |_ disk_2 {/home} , format = ext4 , size = 250_000_000_000 Byte
+    |
+    |_ disk_3 {normal disk} , format = NTFS , size = 1_000_000_000_000 Byte at least .
+    |
+    
+    
+In this disk (disk_3), all my programs should be placed in it . Even the money is printed there .
+
+
+Because it has good space. Or this is the goal. If not the size of the disk should be enlarged at least 2 times each time .
+
+
+
+And the mixer should be turned in this disk (disk_3) .
+
+
+If you want to print money. I suggest that you make a special folder to do all the operations and organize them. But inside this disk (disk_3) .
+
+
+
+
+this mixer combine aproximatly all or at least a lot of possibilities .
+
+
+
+I believe this will help someone somewhere .
+
+
+
+
+thank you .
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
