@@ -1,0 +1,1051 @@
+
+
+<!--  horloge -->
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mixer</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #151821;
+            color: #f0f2f5;
+            font-family: Arial, sans-serif;
+        }
+        
+        .clock {
+            text-align: center;
+            background: #222633;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px #0005;
+            
+            bottom: 10px;
+            position: fixed;
+            
+            
+        }
+
+        h1 {
+            color: #60a5fa;
+        }
+
+        #time {
+            font-size: clamp(40px, 10vw, 65px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #60a5fa;
+        }
+
+        #date {
+            font-size: 18px;
+            color: #cbd5e1;
+        }
+
+        button {
+            margin-top: 25px;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 10px;
+            background: #3b82f6;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background: #2563eb;
+        }
+        
+        
+        
+        #i_mixer_0_i {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #i_mixer_1_i {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #i_mixer_2_i {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #i_mixer_3_i {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        #counter {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        #unity_0 {
+            font-size: clamp(35px, 8vw, 35px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #counter_1 {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #counter_2 {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #counter_3 {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #counter_4 {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #counter_5 {
+            font-size: clamp(35px, 8vw, 55px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #unity_1 {
+            font-size: clamp(35px, 8vw, 35px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        #unity_2 {
+            font-size: clamp(35px, 8vw, 35px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        #unity_3 {
+            font-size: clamp(35px, 8vw, 35px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        #unity_4 {
+            font-size: clamp(35px, 8vw, 35px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        
+        #unity_5 {
+            font-size: clamp(35px, 8vw, 35px);
+            font-weight: bold;
+            direction: ltr;
+            margin: 25px 0;
+            color: #4ade80;
+        }
+        
+        
+        
+        .i_squer_0_i {
+            text-align: center;
+            top: 10px;
+            left: 10px;
+            position: fixed;
+            
+            
+            
+            
+        }
+        
+        
+        
+        .i_squer_1_i {
+            text-align: center;
+            top: 10px;
+            right: 10px;
+            position: fixed;
+            
+            
+        }
+        
+        
+        
+        .i_squer_2_i {
+            text-align: center;
+            bottom: 10px;
+            left: 10px;
+            position: fixed;
+            
+            
+        }
+        
+        
+        .i_squer_3_i {
+            text-align: center;
+            bottom: 10px;
+            right: 10px;
+            position: fixed;
+            
+            
+        }
+        
+        
+        .i_squer_4_i {
+            text-align: center;
+            top: 10px;
+            right: 10px;
+            position: fixed;
+            transform: translateY(+100%);
+            
+        }
+        
+        
+        
+        .i_squer_5_i {
+            text-align: center;
+            top: 10px;
+            position: fixed;
+            
+        }
+        
+        
+        
+        
+    </style>
+</head>
+
+<body>
+    <div class="clock">
+        <h1>🕒 i_horloge_0_i</h1>
+        
+        <div id="i_mixer_0_i"></div>
+        
+        <div id="i_mixer_1_i"></div>
+        
+        <div id="i_mixer_2_i"></div>
+        
+        <div id="i_mixer_3_i"></div>
+        
+        <div id="date"></div>
+        <div id="time">00:00:00</div>
+
+        <div>توقيت الجزائر</div>
+
+        <button onclick="toggleFormat()">
+            تغيير نظام الوقت
+        </button>
+        
+        
+        
+        
+    </div>
+    
+    
+    
+    <div class="i_section_0_i">
+        
+        <div class="i_squer_0_i">
+            
+            
+            <div id="counter">0.00  </div>
+            
+            <div id="unity_0">  دينار</div>
+                
+            
+            
+        </div>
+        
+        
+        <div class="i_squer_1_i">
+            
+            
+            <div id="counter_1">0.00  </div>
+            
+            <div id="unity_1">  dollar</div>
+            
+            
+        </div>
+        
+        
+        
+        <div class="i_squer_2_i">
+            
+            
+            <div id="counter_2">0.00  </div>
+            
+            <div id="unity_2">  دينار</div>
+            
+            
+        </div>
+        
+        
+        
+        <div class="i_squer_3_i">
+            
+            
+            <div id="counter_3">0.00  </div>
+            
+            <div id="unity_3">  dollar</div>
+            
+            
+        </div>
+        
+        
+        
+        
+        <div class="i_squer_4_i">
+            
+            
+            <div id="counter_4">0.00  </div>
+            
+            <div id="unity_4">  euro</div>
+            
+            
+        </div>
+        
+        
+        
+        <div class="i_squer_5_i">
+            
+            
+            <div id="counter_5">0.00  </div>
+            
+            <div id="unity_4"> time second</div>
+            
+            
+        </div>
+        
+        
+        
+        
+        
+    </div>
+    
+    <script>
+        
+        
+        
+        
+        
+        function i_next_step_0_i(i_list_0_i, i_number_of_element__minus_1__0_i) 
+        {
+            
+            
+            /*
+                
+                this is everything number 0 .
+                
+            */
+            
+            
+            
+            let i_counter_0_i = 0;
+            
+            
+            let i_semaphore_of_add_0_i = true;
+            
+            
+            while ( (i_counter_0_i < i_list_0_i.length) && (i_semaphore_of_add_0_i === true) ) 
+            {
+                
+                if ( i_list_0_i[i_counter_0_i] > i_number_of_element__minus_1__0_i ) 
+                {
+                    
+                    i_list_0_i[i_counter_0_i] = 0;
+                    
+                    
+                    i_counter_0_i++;
+                    
+                    
+                }
+                
+                else 
+                {
+                    
+                    i_list_0_i[i_counter_0_i] += 1;
+                    
+                    
+                    if ( i_list_0_i[i_counter_0_i] <= i_number_of_element__minus_1__0_i ) 
+                    {
+                        
+                        
+                        i_semaphore_of_add_0_i = false;
+                        
+                        
+                    }
+                    
+                }
+                
+            }
+            
+            if (i_semaphore_of_add_0_i === true) 
+            {
+                
+                
+                i_list_0_i.push(0);
+                
+                
+            }
+            
+            
+            
+            
+            return i_list_0_i;
+            
+            
+            
+        }
+        
+        
+        
+        
+
+        
+        function i_next_step_1_i(i_list_0_i, i_number_of_element__minus_1__0_i) 
+        {
+            
+            /*
+                
+                this is everything number 1.
+                
+            */
+            
+            
+            
+            let i_counter_0_i = i_list_0_i.length - 1;
+            
+            
+            let i_semaphore_of_add_0_i = true;
+            
+            
+            
+            
+            while ( (i_counter_0_i >= 0) && (i_semaphore_of_add_0_i === true) ) 
+            {
+                
+                
+                if ( i_list_0_i[i_counter_0_i] > i_number_of_element__minus_1__0_i ) 
+                {
+                    
+                    
+                    i_list_0_i[i_counter_0_i] = 0;
+                    
+                    
+                    i_counter_0_i--;
+                    
+                    
+                }
+                
+                else 
+                {
+                    
+                    i_list_0_i[i_counter_0_i] += 1;
+                    
+                    if ( i_list_0_i[i_counter_0_i] <= i_number_of_element__minus_1__0_i ) 
+                    {
+                        
+                        i_semaphore_of_add_0_i = false;
+                        
+                    }
+                    
+                }
+                
+            }
+        
+            if (i_semaphore_of_add_0_i === true) 
+            {
+                
+                i_list_0_i.unshift(0);
+                
+            }
+            
+            
+            
+            return i_list_0_i;
+            
+            
+        }
+        
+        
+        
+        
+        
+        function i_next_step_2_i(i_list_0_i, i_number_of_element__minus_1__0_i) 
+        {
+            
+            
+            /*
+                
+                this is everything number 2.
+                
+            */
+            
+            
+            
+            let i_counter_0_i = 0;
+            
+            
+            let i_semaphore_of_add_0_i = true;
+            
+            
+            
+            while ( (i_counter_0_i < i_list_0_i.length) && (i_semaphore_of_add_0_i === true) ) 
+            {
+                
+                
+                if (i_list_0_i[i_counter_0_i] <= 0) 
+                {
+                    
+                    
+                    i_list_0_i[i_counter_0_i] = i_number_of_element__minus_1__0_i;
+                    
+                    
+                    i_counter_0_i++;
+                    
+                    
+                }
+        
+                else 
+                {
+                    
+                    
+                    i_list_0_i[i_counter_0_i] -= 1;
+                    
+                    
+                    if (i_list_0_i[i_counter_0_i] >= 0) 
+                    {
+                    
+                        
+                        i_semaphore_of_add_0_i = false;
+                        
+                        
+                    }
+                    
+                }
+                
+            }
+            
+            if (i_semaphore_of_add_0_i === true) 
+            {
+                
+                
+                i_list_0_i.push(i_number_of_element__minus_1__0_i);
+                
+                
+            }
+            
+            
+            return i_list_0_i;
+            
+            
+            
+        }
+        
+        
+        
+        
+        
+        function i_next_step_3_i(i_list_0_i, i_number_of_element__minus_1__0_i) 
+        {
+            
+            /*
+                
+                this is everything number 3.
+                
+            */
+            
+            
+            let i_counter_0_i = i_list_0_i.length - 1;
+            
+            
+            let i_semaphore_of_add_0_i = true;
+            
+            
+            
+            while ( (i_counter_0_i >= 0) && (i_semaphore_of_add_0_i === true) ) 
+            {
+                
+                
+                if (i_list_0_i[i_counter_0_i] <= 0) 
+                {
+                    
+                    
+                    i_list_0_i[i_counter_0_i] = i_number_of_element__minus_1__0_i;
+                    
+                    
+                    i_counter_0_i--;
+                    
+                    
+                }
+        
+                else 
+                {
+                    
+                    
+                    i_list_0_i[i_counter_0_i] -= 1;
+                    
+                    
+                    if (i_list_0_i[i_counter_0_i] >= 0) 
+                    {
+                        
+                        
+                        i_semaphore_of_add_0_i = false;
+                        
+                        
+                    }
+                    
+                }
+                
+            }
+            
+            if (i_semaphore_of_add_0_i === true) 
+            {
+                
+                
+                i_list_0_i.unshift(i_number_of_element__minus_1__0_i);
+                
+                
+            }
+            
+            
+            return i_list_0_i;
+            
+            
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        let i_list_0_i = [];
+        
+        let i_number_of_element__minus_1__0_i = 1
+        
+        
+        
+        
+        
+        function i_update_mixer_0_i() {
+            
+            
+            
+            i_list_0_i = i_next_step_0_i(i_list_0_i, i_number_of_element__minus_1__0_i)
+            
+            
+            
+            document.getElementById("i_mixer_0_i").textContent = " [ " + i_list_0_i.join(", ") + " ] "
+            
+            
+            
+            
+            
+            
+        }
+        
+        
+        
+        
+        i_update_mixer_0_i();
+        
+        setInterval(i_update_mixer_0_i, 10);
+        
+        
+        
+        let i_list_1_i = []
+        
+        
+        
+        
+        function i_update_mixer_1_i() {
+            
+            
+            
+            i_list_1_i = i_next_step_1_i(i_list_1_i, i_number_of_element__minus_1__0_i)
+            
+            
+            
+            document.getElementById("i_mixer_1_i").textContent = " [ " + i_list_1_i.join(", ") + " ] "
+            
+            
+            
+            
+            
+            
+        }
+        
+        
+        
+        
+        i_update_mixer_1_i();
+        
+        setInterval(i_update_mixer_1_i, 10);
+        
+        
+        
+        
+        
+        
+        
+        let i_list_2_i = []
+        
+        
+        
+        
+        function i_update_mixer_2_i() {
+            
+            
+            
+            i_list_2_i = i_next_step_2_i(i_list_2_i, i_number_of_element__minus_1__0_i)
+            
+            
+            
+            document.getElementById("i_mixer_2_i").textContent = " [ " + i_list_2_i.join(", ") + " ] "
+            
+            
+            
+            
+            
+            
+        }
+        
+        
+        
+        
+        i_update_mixer_2_i();
+        
+        setInterval(i_update_mixer_2_i, 10);
+        
+        
+        
+        
+        
+        
+        
+        
+        let i_list_3_i = []
+        
+        
+        
+        
+        function i_update_mixer_3_i() {
+            
+            
+            
+            i_list_3_i = i_next_step_3_i(i_list_3_i, i_number_of_element__minus_1__0_i)
+            
+            
+            
+            document.getElementById("i_mixer_3_i").textContent = " [ " + i_list_3_i.join(", ") + " ] "
+            
+            
+            
+            
+            
+            
+        }
+        
+        
+        
+        
+        i_update_mixer_3_i();
+        
+        setInterval(i_update_mixer_3_i, 10);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        let use24Hour = true;
+
+        function updateClock() {
+            const now = new Date();
+
+            document.getElementById("time").textContent =
+                now.toLocaleTimeString("fr-DZ", {
+                    timeZone: "Africa/Algiers",
+                    hour12: !use24Hour,
+                    hour: "2-digit",
+                    minute: "2-digit",
+                    second: "2-digit"
+                });
+
+            document.getElementById("date").textContent =
+                now.toLocaleDateString("ar-DZ", {
+                    timeZone: "Africa/Algiers",
+                    weekday: "long",
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric"
+                });
+            
+            
+            
+            
+            
+        }
+
+        function toggleFormat() {
+            use24Hour = !use24Hour;
+            updateClock();
+        }
+        
+        updateClock();
+        setInterval(updateClock, 1000);
+        
+        
+        
+        
+        let i_time_of_wait_0_i = 100;
+        
+        let i_counter_0_i = 0;
+        
+        let i_limit_0_i = 100000;
+        
+        let i_incrimenter_0_i = 0.012;
+        
+        let i_precision_1_i = 100;
+        
+        let i_tofixed_1_i = 2;
+        
+        
+        function i_update_counter_0_i() {
+            document.getElementById("counter").textContent =
+                i_counter_0_i.toFixed(i_tofixed_1_i);
+        
+            i_counter_0_i = Math.round(
+                (i_counter_0_i + i_incrimenter_0_i) * i_precision_1_i
+            ) / i_precision_1_i;
+        
+            if (i_counter_0_i > i_limit_0_i) {
+                i_counter_0_i = 0;
+            }
+        }
+        
+        
+        
+        
+        i_update_counter_0_i();
+        
+        setInterval(i_update_counter_0_i, i_time_of_wait_0_i);
+        
+        
+        
+        
+        let i_counter_1_i = 0;
+        
+        
+        function i_update_counter_1_i() {
+            document.getElementById("counter_1").textContent =
+                i_counter_1_i.toFixed(i_tofixed_1_i);
+        
+            i_counter_1_i = Math.round(
+                (i_counter_1_i + i_incrimenter_0_i) * i_precision_1_i
+            ) / i_precision_1_i;
+        
+            if (i_counter_1_i > i_limit_0_i) {
+                i_counter_1_i = 0;
+            }
+        }
+        
+        
+        i_update_counter_1_i();
+        
+        setInterval(i_update_counter_1_i, i_time_of_wait_0_i);
+        
+        
+        
+        
+        let i_counter_4_i = 0;
+        
+        
+        function i_update_counter_4_i() {
+            document.getElementById("counter_4").textContent =
+                i_counter_4_i.toFixed(i_tofixed_1_i);
+        
+            i_counter_4_i = Math.round(
+                (i_counter_4_i + i_incrimenter_0_i) * i_precision_1_i
+            ) / i_precision_1_i;
+        
+            if (i_counter_4_i > i_limit_0_i) {
+                i_counter_4_i = 0;
+            }
+        }
+        
+        
+        i_update_counter_4_i();
+        
+        setInterval(i_update_counter_4_i, i_time_of_wait_0_i);
+        
+        
+        
+        
+        let i_counter_5_i = 0;
+        
+        
+        function i_update_counter_5_i() {
+            document.getElementById("counter_5").textContent =
+                i_counter_5_i.toFixed(i_tofixed_1_i);
+        
+            i_counter_5_i = Math.round(
+                (i_counter_5_i + i_incrimenter_0_i) * i_precision_1_i
+            ) / i_precision_1_i;
+        
+            if (i_counter_5_i > i_limit_0_i) {
+                i_counter_5_i = 0;
+            }
+        }
+        
+        
+        i_update_counter_5_i();
+        
+        setInterval(i_update_counter_5_i, i_time_of_wait_0_i);
+        
+        
+        
+        
+        
+        let i_counter_2_i = 0;
+        
+        let i_limit_1_i = 10000000000;
+        
+        let i_incrimenter_1_i = 12345.67;
+        
+        function i_update_counter_2_i() {
+            document.getElementById("counter_2").textContent =
+                i_counter_2_i.toFixed(i_tofixed_1_i);
+        
+            i_counter_2_i = Math.round(
+                (i_counter_2_i + i_incrimenter_1_i) * i_precision_1_i
+            ) / i_precision_1_i;
+        
+            if (i_counter_2_i > i_limit_1_i) {
+                i_counter_2_i = 0;
+            }
+        }
+        
+        
+        i_update_counter_2_i();
+        
+        setInterval(i_update_counter_2_i, i_time_of_wait_0_i);
+        
+        
+        
+        
+        let i_counter_3_i = 0;
+        
+        function i_update_counter_3_i() {
+            document.getElementById("counter_3").textContent =
+                i_counter_3_i.toFixed(i_tofixed_1_i);
+        
+            i_counter_3_i = Math.round(
+                (i_counter_3_i + i_incrimenter_1_i) * i_precision_1_i
+            ) / i_precision_1_i;
+        
+            if (i_counter_3_i > i_limit_1_i) {
+                i_counter_3_i = 0;
+            }
+        }
+        
+        
+        i_update_counter_3_i();
+        
+        setInterval(i_update_counter_3_i, i_time_of_wait_0_i);
+        
+        
+        
+        
+        
+    </script>
+</body>
+</html>
